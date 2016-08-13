@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "registry:npm/express#4.14.0+20160810205701"
   },
-  "globalDependencies": {
+  "globalDevDependencies": {
     "node": "registry:env/node#6.0.0+20160813135048"
   }
 }
