@@ -1,5 +1,5 @@
 # Typed express-unless
-[![Build Status](https://travis-ci.org/types/npm-express-unless.svg?branch=master)](https://travis-ci.org/types/typed-express-unless)
+[![Build Status](https://travis-ci.org/types/npm-express-unless.svg?branch=master)](https://travis-ci.org/types/npm-express-unless)
 
 Typescript Typings for [express-unless](https://github.com/jfromaniello/express-unless).
 
