@@ -18,7 +18,7 @@ declare namespace unless {
          * and methods key-pairs. If the request path or path and method match, the middleware will not run. Check
          * Examples for usage.
          */
-        path?: string | string[];
+        path?: string | RegExp | (string | RegExp | { url: (string | RegExp); methods: string[]; })[];
 
         /**
          * it could be an string or an array of strings. If the request path ends with one of these extensions the middleware will not run.
